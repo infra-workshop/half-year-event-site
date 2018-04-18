@@ -1,7 +1,7 @@
 defaultContentLanguage = "ja"
 languageCode = "ja"
 title = "インフラ勉強会 半年記念イベント"
-baseURL = "https://infra-workshop-aa7e9.firebaseapp.com/"
+baseURL = "https://event.infradio.am/"
 theme = "hugo-theme-massively"
 
 [params.posts]
