@@ -1,5 +1,8 @@
 # half-year-event-site
 
+## firebase hostingのデプロイ先
+https://infra-workshop-aa7e9.firebaseapp.com/
+
 ## ローカルでの構築・確認方法
 
 ### HugoのCLIツールを入れる
