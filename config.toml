@@ -1,6 +1,6 @@
 defaultContentLanguage = "ja"
 languageCode = "ja"
-title = "インフラ勉強会 半年記念オフラインミートアップ"
+title = "インフラ勉強会 半年記念イベント"
 baseURL = "https://infra-workshop-aa7e9.firebaseapp.com/"
 theme = "hugo-theme-massively"
 
