@@ -30,7 +30,7 @@ choco install hugo -confirm
 hugo server
 ```
 
-## Hugoでページ(コンテンツを追加する)
+## Hugoでページ(コンテンツ)を追加する
 
 TBD
 
