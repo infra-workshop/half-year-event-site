@@ -1,7 +1,7 @@
 defaultContentLanguage = "ja"
 languageCode = "ja"
 title = "インフラ勉強会 半年記念オフラインミートアップ"
-baseURL = "http://example.com/"
+baseURL = "https://infra-workshoip.firebaseapp.com/"
 theme = "hugo-theme-massively"
 
 [params.posts]
@@ -16,6 +16,3 @@ theme = "hugo-theme-massively"
 [languages]
 [languages.ja]
   languageName = "Japanese"
-[languages.en]
-  languageName = "English"
-  title = "Infra Workshop Offline Meetup -half year edition-"
