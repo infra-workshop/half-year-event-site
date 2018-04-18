@@ -10,8 +10,8 @@ theme = "hugo-theme-massively"
     featuredpost = "true"
 
 [params.settings]
-    googleanalytics = "UA-113904582-4"
-    disqus = "hugo-massively"
+    googleanalytics = "UA-117832990-1"
+    disqus = "half-year-event-site"
 
 [languages]
 [languages.ja]
