@@ -10,19 +10,25 @@ https://infra-workshop-aa7e9.firebaseapp.com/
 #### Mac
 [Homebrew](https://brew.sh/index_ja)が必要
 
-`brew install hugo`
+```sh
+brew install hugo
+```
 
 #### Windows
 [Chocolatey](https://www.cresco.co.jp/blog/entry/2127/)が必要
 
-`choco install hugo -confirm`
+```posh
+choco install hugo -confirm
+```
 
 #### Linux
 パッケージマネージャがないので自前でビルドするかバイナリを落としてくるか(Golangが必要)
 
 ### Hugoのローカルサイトを起動
 
-`hugo server`
+```sh
+hugo server
+```
 
 ### Hugoでページ(コンテンツを追加する)
 
@@ -30,4 +36,6 @@ TBD
 
 ### HugoでStaticなHTMLを出力するには(必要な場合だけ)
 
-`hugo`
+```sh
+hugo
+```
