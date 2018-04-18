@@ -1,3 +1,21 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+defaultContentLanguage = "ja"
+languageCode = "ja"
+title = "インフラ勉強会 半年記念オフラインミートアップ"
+baseURL = "http://example.com/"
+theme = "hugo-theme-massively"
+
+[params.posts]
+    foldername = "post"
+    pagesize = "6"
+    featuredpost = "true"
+
+[params.settings]
+    googleanalytics = "UA-113904582-4"
+    disqus = "hugo-massively"
+
+[languages]
+[languages.ja]
+  languageName = "Japanese"
+[languages.en]
+  languageName = "English"
+  title = "Infra Workshop Offline Meetup -half year edition-"
